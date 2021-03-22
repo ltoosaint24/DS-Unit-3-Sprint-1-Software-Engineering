@@ -266,6 +266,12 @@ career here, you'll have to answer the following:
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
+### Part 7 Response:
+The important part of code would the syntax, and the sequence. This is the crucial part within coding because this can cause system crashes. 
+How the code is written can severely effect how it communicate with other virtual machine platforms. For example, if there are additional character
+marks that get irated into other modules, this can lead to coud rewrited, overrides, delete and etc. Especially, since python applies letter coding commands, such as -w or -r; which means to write or read a file retrospectively. Although the use of containers functions as gateways, or passage ways to ensure that the syntax is properly shifted of transmitted into virtual machines there still potential to acquire null values. The containers improve the situation because it enables there to be plug-ins that are similar to method 'try catch system'. This is an opportunity to reiterate code sequence.
+
+
 ### Part 8 - Turn it in!
 
 Provide all the files you wrote (`acme.py`, `acme_report.py`, and
